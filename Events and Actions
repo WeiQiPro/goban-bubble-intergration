@@ -1,0 +1,15 @@
+
+//events are workflow triggers which allow custom workflows to happen from jquery
+Events:
+save file after upload
+
+//controls the behavior of the element basically functions
+Element Actions:
+    Get SGF Url: grabs the url from the database
+    Load SGF to Goban: loads the sgf
+    Next Node: plays next move
+    Prev Node: undo's current move
+    Delete Node: erases current move
+    Set Tool: defaults element type
+    offline download: allows the user to download regardless if they lose connection
+    autoplay: will automatically go through moves
