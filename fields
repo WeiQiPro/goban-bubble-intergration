@@ -1,0 +1,10 @@
+//Fields are attached to the element object in Bubble.
+Fields:
+  sgf: a file to give the element to load
+  type: how the goban will be used
+  filename: a filename to be uploaded to bubble database
+  id: a unique id to reference this specific board
+  panels: what tools are available when loading the element
+  togglePreviewMove: preview next move on the goban
+  toggleMarkups: show markups made in sgfs or users
+    
