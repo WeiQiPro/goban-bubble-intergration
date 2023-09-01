@@ -1,0 +1,10 @@
+
+//exposed fields are used in the workflows like params in a function
+Exposed States:
+    sgfurl
+    black player
+    white player
+    komi
+    black rank
+    white rank
+    current move
